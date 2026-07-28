@@ -1,0 +1,37 @@
+# ── BARRERA DE DATOS ─────────────────────────────────────────
+# Nada con datos reales entra a este repositorio.
+# Ver docs/PROTOCOLO-CLEAN-ROOM.md
+
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.json
+
+# Excepciones explícitas: instrumentos y datos sintéticos
+!instrumentos/*.xlsx
+!datos-sinteticos/*.csv
+
+# Carpeta de trabajo local — nunca se versiona
+privado/
+local/
+scratch/
+*_real.*
+*_REAL.*
+
+# ── Entorno ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.env
+.DS_Store
+.vscode/
+.idea/
