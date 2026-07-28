@@ -71,6 +71,29 @@ El historial de commits del repositorio funciona como registro de autoría fecha
 
 ---
 
+---
+
+## 4-bis. Trabajo institucional que informa el método
+
+Un análisis realizado dentro de la organización puede enseñarme algo
+transferible. El aprendizaje es mío; el artefacto, no.
+
+**Se puede publicar:**
+- El razonamiento analítico y la lógica de descomposición
+- El formato de análisis de elaboración propia
+- Principios de diseño aplicables a cualquier organización
+
+**No se publica:**
+- El instrumento tal como quedó construido para la organización
+- Cifras, tasas o resultados reales, ni siquiera redondeados o "de ejemplo"
+- La estructura de campos, estados o categorías definida internamente
+- El contexto que permita inferir de qué programa se trata
+
+**Regla de reconstrucción:** si aprendí algo dentro y quiero publicarlo,
+reconstruyo el instrumento desde cero con datos sintéticos, sin abrir
+el archivo original. La versión publicada no debe ser reconocible como
+derivada de la interna.
+
 ## 5. Qué hacer ante una duda concreta
 
 1. Escribir la duda en una línea.
